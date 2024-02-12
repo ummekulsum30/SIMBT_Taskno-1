@@ -1,3 +1,5 @@
-# SIMBT_Taskno-1
+# JAVA Project
 
-Internship in Simplbyte Internship This is a Git journal for the April Batch Simplbyte Java intern at #simplbyte. Author: UMME KULSUM.
+Tic-Tac-Toe Game using Java
+
+ Author: UMME KULSUM.
